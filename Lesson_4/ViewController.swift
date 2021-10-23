@@ -200,8 +200,7 @@ class ViewController: UIViewController {
         
         
         
-        //            EXERCISE:  HOME WORK
-        
+        //            EXERCISE:  HOME WORK 
         let tupleNumbersAndStrings: [(number: Int, character: String)] = [
             (1,"x"),
             (3,"z"),
